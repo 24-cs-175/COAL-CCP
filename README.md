@@ -1,5 +1,5 @@
 # COAL-CCP
-The Remote Data System is an Assembly Language–based project developed using EMU8086 that demonstrates low-level programming concepts of the Intel 8086 processor. 
+The Remote Data System is an Assembly Language–based project developed using EMU8086 that demonstrates low-level programming concepts of the Intel 8086 processor.The system is menu-driven and allows users to store, manage, and summarize resource-related data using DOS file handling (INT 21h). Data is saved permanently in a text file using CSV format, enabling record insertion, summary display, update (via recreation), and deletion. The project enhances understanding of memory management, registers, stack usage, file operations, and manual data parsing in Assembly Language, making it a practical learning tool for computer organization and assembly concepts.
 .model small
 .stack 100h
 .data
